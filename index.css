@@ -9,6 +9,16 @@ html {
   font-family: 'Nunito Sans', sans-serif;
   color: white;
 }
+.mainbackimg {
+  background-image: url(images/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 a {
   color: #3b7adf;
