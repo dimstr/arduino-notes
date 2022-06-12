@@ -10,7 +10,7 @@ html {
   color: white;
 }
 .mainbackimg {
-  background-image: url(images/background.jpg);
+  background-image: url(assets/background.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
